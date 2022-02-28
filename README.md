@@ -1,5 +1,5 @@
 # The-Parser
-Multiple format file parser 
+Multiple format file parser using Factory Method
 Test Project 
 
  This project goal is to create a multiple format parser with a user inteface to extract data bsed on the user desired field selection .
